@@ -22,10 +22,10 @@ We typically respond within 1–2 business days.
 A: Tap the "+" icon on the parameters screen to create a custom parameter with your desired name and unit.
 
 **Q: Can I track multiple aquariums?**  
-A: Yes! ReefBuddy supports multiple tanks. You can add new tanks from the settings or tank selection menu.
+A: Yes! ReefBuddy supports multiple tanks. You can add new tanks from the tank selection screen.
 
 **Q: How do I log a test result using a photo?**  
-A: When logging a parameter, tap the camera icon to take a photo of your digital tester or test strip result. The photo will be saved with your log.
+A: When logging a parameter, tap the camera icon to take a photo of your digital tester.
 
 **Q: Is my data backed up?**  
 A: Currently, data is stored locally on your device. Future Pro features will include secure cloud backups and sync.
