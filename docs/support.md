@@ -4,8 +4,6 @@ Welcome to the ReefBuddy Support Center! We're here to help you get the most out
 
 If you're having trouble with the app or have questions, please check below or reach out to us directly.
 
----
-
 ## 📩 Contact Support
 
 For any issues, questions, or feature requests, please contact us:
@@ -13,8 +11,6 @@ For any issues, questions, or feature requests, please contact us:
 **Email:** [support@reefbuddy.app](mailto:support@reefbuddy.app)
 
 We typically respond within 1–2 business days.
-
----
 
 ## 🧪 Common Questions
 
@@ -30,12 +26,8 @@ A: When logging a parameter, tap the camera icon to take a photo of your digital
 **Q: Is my data backed up?**  
 A: Currently, data is stored locally on your device. Future Pro features will include secure cloud backups and sync.
 
----
-
 ## 🧭 Feature Requests & Feedback
 
 We’re always looking to improve ReefBuddy. If you have an idea for a new feature or want to share feedback, we’d love to hear from you at [support@reefbuddy.app](mailto:support@reefbuddy.app).
-
----
 
 Thank you for using ReefBuddy!
